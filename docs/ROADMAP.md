@@ -9,8 +9,9 @@
 - [x] Contrato de comunicação preliminar
 - [x] Perfil do hardware de referência
 - [x] Plano de testes inicial
-- [ ] Criar repositório GitHub `StudioCam`
-- [ ] Fazer primeiro commit
+- [x] Criar repositório GitHub (`lucaslopesquintana/studiocamOBS`)
+- [x] Fazer primeiro commit (estrutura Fase 0 + `.gitignore` e `.editorconfig` sincronizados)
+- [x] Reorganizar raiz do repositório (conteúdo de `StudioCam/` promovido para a raiz, `StudioCam-Fase-0.zip` e artefatos web auxiliares removidos, `.gitignore` expandido)
 - [ ] Confirmar Android SDK/JDK/Gradle/Android Studio
 - [ ] Confirmar modelo exato/variante e versão de software do moto g35
 - [ ] Instalar ADB e validar conexão USB
